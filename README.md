@@ -1,1 +1,2 @@
 # Campus-Networking-System
+A comprehensive network redesign initiative aimed at enhancing the infrastructure of Bahria University. This project focuses on improving connectivity, implementing robust security measures, enabling scalability, and ensuring high availability. Key features include network segmentation, access control, wireless integration, redundancy, and proactive monitoring. The objective is to deliver a secure, efficient, and reliable network experience for students, faculty, and staff.

@@ -16,9 +16,9 @@ The Campus Networking System is designed to upgrade the entire network infrastru
 
 ## Technologies & Tools
 
-- Cisco Packet Tracer / GNS3
-- Routers & Switches (Layer 2 & 3)
-- VLANs and Subnetting
+- Cisco Packet Tracer
+- Basic Networking Protocols (DHCP, DNS, HTTP)
+- VLAN, ACL, STP configurations
 
 
 
